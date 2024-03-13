@@ -1,4 +1,4 @@
-# Data Analyst
+# Product Analyst
 
 #### Technical Skills: Python, SQL, Tableau
 
@@ -8,9 +8,9 @@
 
 
 ## Work Experience
-**Data Consultant @ Lean Compound (_Feb 2023 - Present_)**
--Boosted EdTech user engagement 25% via A/B tests & usage analysis, driving daily active user growth.
--Reduced property management client's cost-per-acquisition 10% with data-driven marketing strategy.
+**Product Analytics Consultant @ Lean Compound (_Feb 2023 - Present_)**
+- Boosted EdTech user engagement 25% via A/B tests & usage analysis, driving daily active user growth.
+- Reduced property management client's cost-per-acquisition 10% with data-driven marketing strategy.
 
 **Agile Business Analyst @ Genesis Global LTD (_May 2019 - Dec 2022_)**
 - Defined user stories & prioritized backlog for new sports betting features in Agile environment, resulting in a 20% increase in development team velocity.
