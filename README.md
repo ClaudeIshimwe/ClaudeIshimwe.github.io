@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Tableau
 
 ## Education
-- Master of Business Administration | University of Suffolk (_Oct 2021_)								       		
-- BSc (Hons), Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
+- MBA | University of Suffolk (_Oct 2021_)								       		
+- BSc, Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
 
 
 ## Work Experience
