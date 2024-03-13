@@ -4,7 +4,7 @@
 
 ## Education
 - MBA | University of Suffolk (_Oct 2021_)								       		
-- BSc, Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
+- BSc Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
 
 
 ## Work Experience
