@@ -10,6 +10,7 @@
 ## Work Experience
 **Data Consultant @ Lean Compound (_Feb 2023 - Present_)**
 -Product Optimization: Leveraged data-driven insights to optimize marketing campaigns, cost reduction strategies, and customer experiences, resulting in improved product performance for clients across property management, retail, and EdTech.
+
 **Agile Business Analyst @ Genesis Global LTD (_May 2019 - Dec 2022_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
