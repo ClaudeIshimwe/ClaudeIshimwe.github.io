@@ -16,6 +16,10 @@
 - Increased dev team velocity 20% by defining user stories & prioritizing backlog for new sports betting features (Agile).
 - Delivered high-quality features (35% fewer defects) via UATs with sports bettors, ensuring user satisfaction & regulatory compliance.
 
+**Systems Analyst @ Orca Money (_March 2017 - May 2019_)**
+- Increased P2P transaction efficiency by 20% through user behavior analysis & system optimization.
+- Bolstered platform security by 15% with a new user authentication system (reduced fraudulent transactions).
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
