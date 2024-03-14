@@ -14,7 +14,7 @@
 
 **Agile Business Analyst @ Genesis Global LTD (_May 2019 - Dec 2022_)**
 - Increased dev team velocity 20% by defining user stories & prioritizing backlog for new sports betting features (Agile).
-- Delivered high-quality features (35% fewer post-launch defects) by facilitating UATs with sports bettors to meet user needs & regulations.
+- Delivered high-quality features (35% fewer defects) via UATs with sports bettors, ensuring user satisfaction & regulatory compliance.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
