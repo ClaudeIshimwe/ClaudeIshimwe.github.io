@@ -13,9 +13,8 @@
 - Reduced property management client's cost-per-acquisition 10% with data-driven marketing strategy.
 
 **Agile Business Analyst @ Genesis Global LTD (_May 2019 - Dec 2022_)**
-- Defined user stories & prioritized backlog for new sports betting features in Agile environment, resulting in a 20% increase in development team velocity.
-- Facilitated UATs with sports bettors to ensure features met user needs & regulations, resulting in a Y% reduction in post-launch defects.
-- Analyzed sports betting data & user behavior to identify product enhancements for sportsbook competitiveness, leading to a X% increase in user engagement (e.g., daily active users or time spent on app).
+- Increased dev team velocity 20% by defining user stories & prioritizing backlog for new sports betting features (Agile).
+- Delivered high-quality features (35% fewer post-launch defects) by facilitating UATs with sports bettors to meet user needs & regulations.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
