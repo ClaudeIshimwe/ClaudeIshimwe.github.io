@@ -1,6 +1,6 @@
 # Product Analyst
 
-#### Technical Skills: Python, SQL, Tableau
+#### Technical Skills: SQL, Tableau
 
 ## Education
 - MBA | University of Suffolk (_Oct 2021_)								       		
