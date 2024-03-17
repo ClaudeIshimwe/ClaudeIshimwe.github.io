@@ -1,11 +1,6 @@
 # Product Analyst
 
-#### Technical Skills: SQL, Tableau
-
-## Education
-- MBA | University of Suffolk (_Oct 2021_)								       		
-- BSc Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
-
+#### Technical Skills: SQL, Python, Tableau
 
 ## Work Experience
 **Product Analytics Consultant @ Lean Compound (_Feb 2023 - Present_)**
@@ -19,6 +14,10 @@
 **Systems Analyst @ Orca Money (_March 2017 - May 2019_)**
 - Increased P2P transaction efficiency by 20% through user behavior analysis & system optimization.
 - Bolstered platform security by 15% with a new user authentication system (reduced fraudulent transactions).
+
+## Education
+- MBA | University of Suffolk (_Oct 2021_)								       		
+- BSc Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
