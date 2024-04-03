@@ -1,6 +1,9 @@
 # Product Analyst
 
-#### Technical Skills: SQL, Python, Excel, Tableau
+## Skills
+#### Data Analytics: A/B testing, Cohort Analysis, Retention analysis, Heat mapping, Form analysis, Funnel analysis, Session replay
+#### Product Management: Strategy, Roadmapping & Prioritisation, Backlog Management, User Stories, Competitive Analysis
+#### Tools: SQL, Python, Excel, Tableau
 
 ## Education
 - MBA | University of Suffolk (_Oct 2021_)								       		
