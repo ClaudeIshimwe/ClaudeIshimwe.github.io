@@ -1,22 +1,67 @@
-# Product Analyst
+# CLAUDE ISHIMWE
 
-## Technical Skills: SQL, Python, Tableau
+## 🚀 Cloud Solution Architect - Azure Infrastructure | FinOps Practitioner
+Cloud Solution Architect with expertise in designing, implementing, and optimizing scalable, secure, and cost-effective cloud solutions on **Microsoft Azure**. I specialize in infrastructure design, automation, and DevOps practices to help organizations achieve their digital transformation goals.
 
-## Education
-- MBA | University of Suffolk (_Oct 2021_)								       		
-- BSc Computing	| Cardiff Metropolitan University (_Nov 2016_)	 			        		
+---
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## 🔧 Technical Skills
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- **Cloud Platforms**: Azure (Azure Virtual Machines, Azure Kubernetes Service, Azure Functions, Azure DevOps)
+- **Infrastructure as Code (IaC)**: Terraform, Bicep, ARM Templates
+- **DevOps**: Azure DevOps Pipelines, GitHub Actions, CI/CD
+- **Security**: Azure Security Center, Azure Policy, Key Vault, RBAC
+- **Monitoring**: Azure Monitor, Log Analytics, Application Insights
+- **Networking**: Virtual Networks, ExpressRoute, Load Balancers, Application Gateway
 
-![EEG Band Discovery](/assets/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## 🌟 Featured Projects
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### 1. **Hybrid Cloud Architecture for Enterprise Workloads**
+- **Description**: Designed and deployed a hybrid cloud solution for a retail enterprise to connect on-premises data centers with Azure using Azure ExpressRoute.
+- **Tech Stack**: Azure Virtual Network, ExpressRoute, VPN Gateway, Azure Firewall, Azure Monitor
+- **Business Impact**: Improved scalability by 50%, reduced latency by 30%, and enabled secure communication between cloud and on-premise environments.
+- **[View Details](#)**
 
-![Bike Study](/assets/bike_study.jpeg)
+---
+
+### 2. **Serverless Architecture for E-Commerce Application**
+- **Description**: Migrated a monolithic e-commerce application to a serverless architecture using Azure Functions and Azure Logic Apps.
+- **Tech Stack**: Azure Functions, Logic Apps, Event Grid, Azure Blob Storage, Azure Cosmos DB
+- **Business Impact**: Reduced operational costs by 40% and improved application scalability.
+- **[View Details](#)**
+
+---
+
+### 3. **Infrastructure as Code (IaC) with Terraform**
+- **Description**: Automated the deployment of Azure resources using Terraform for a fintech company, enabling rapid environment provisioning.
+- **Tech Stack**: Terraform, Azure Resource Manager (ARM), Azure DevOps
+- **Business Impact**: Reduced deployment time by 70% and ensured consistent environments across staging, QA, and production.
+- **[View Repository](https://github.com/yourusername/project-repo)**
+
+---
+
+## 📝 Blog
+
+Explore my blog posts where I share insights, best practices, and lessons learned:
+
+- **[5 Best Practices for Securing Azure Infrastructure](#)**  
+- **[How to Optimize Azure Costs with Azure Advisor](#)**  
+- **[Migrating On-Prem to Azure: A Step-by-Step Guide](#)**  
+- **[Implementing CI/CD with Azure DevOps Pipelines](#)**  
+
+---
+
+## 🎓 Certifications
+
+- **Microsoft Certified: Azure Solutions Architect Expert**  
+- **Microsoft Certified: Azure Administrator**  
+- **FinOps Certified Practitioner**
+
+---
+
+## 📫 Contact Me
+
+- **Email**: [yourname@example.com](mailto:yourname@example.com)
+- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/your
