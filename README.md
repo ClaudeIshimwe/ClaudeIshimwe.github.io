@@ -1,4 +1,4 @@
-# CLAUDE ISHIMWE
+# Portfolio
 
 ## 🚀 Cloud Solution Architect - Azure Infrastructure | FinOps Practitioner
 Cloud Solution Architect with expertise in designing, implementing, and optimizing scalable, secure, and cost-effective cloud solutions on **Microsoft Azure**. I specialize in infrastructure design, automation, and DevOps practices to help organizations achieve their digital transformation goals.
